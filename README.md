@@ -1,8 +1,8 @@
-# DeepHazerd
+# DeepHazard
 Hazerd Map Prediction by Deep Learning
 
 ## 環境設定
-## pip installl
+## pip install
 ```
 pip install -r requirements.txt
 ```
