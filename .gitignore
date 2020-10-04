@@ -133,6 +133,9 @@ dmypy.json
 .pyre/
 
 
+#pyenv
+/deephazard
+
 api_keys.json
 
 .vscode/
