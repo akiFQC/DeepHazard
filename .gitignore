@@ -25,7 +25,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+bin/
 MANIFEST
+.envrc
+pyvenv.cfg
+kuriki/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -128,5 +132,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 #pyenv
 /deephazard
+
+api_keys.json
+
+.vscode/
+.DS_Store
