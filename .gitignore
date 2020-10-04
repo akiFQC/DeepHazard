@@ -25,7 +25,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+bin/
 MANIFEST
+.envrc
+pyvenv.cfg
+kuriki/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
