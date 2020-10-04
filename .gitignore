@@ -133,3 +133,9 @@ api_keys.json
 
 .vscode/
 .DS_Store
+
+data/
+*.png
+weight/
+
+*.ipynb_checkpoints
